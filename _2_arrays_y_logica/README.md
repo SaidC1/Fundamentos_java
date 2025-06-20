@@ -1,4 +1,3 @@
-/*
 # 🔢 Arrays y Lógica en Java
 
 Este módulo incluye ejercicios y un mini proyecto que te ayudarán a practicar el uso de arreglos (arrays) y estructuras de control para construir lógica más útil y realista.
@@ -24,4 +23,3 @@ Este módulo incluye ejercicios y un mini proyecto que te ayudarán a practicar 
 javac GestorEstudiantes.java
 java GestorEstudiantes
 ```
-*/
