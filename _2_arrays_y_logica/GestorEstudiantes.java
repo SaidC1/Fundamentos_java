@@ -2,7 +2,7 @@ package java_mini_proyectos._2_arrays_y_logica;
 
 import java.util.Scanner;
 
-public class GestorEstudiantes {
+public class _GestorEstudiantes {
    public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
