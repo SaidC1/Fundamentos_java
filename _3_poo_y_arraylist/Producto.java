@@ -1,4 +1,4 @@
-package java_mini_proyectos._3_poo_y_arraylist;
+package InventarioProductos;
 
 public class Producto {
     private String nombre;
@@ -11,11 +11,32 @@ public class Producto {
         this.cantidad = cantidad;
     }
 
+    //metodo GET
     public String getNombre() {
         return nombre;
     }
 
-    public void mostrarInfo() {
-        System.out.println("📦 Producto: " + nombre + "| Precio: $ " + precio + "| Stock: " + cantidad);
+    public double getPrecio() {
+        return precio;
+    }
+    
+    public int getCantidad() {
+        return cantidad;
+    }
+
+    //metodo SET
+    public void setPrecio(double precio){
+        this.precio = precio;
+    }
+
+    public void setCantidad(int cantidad) {
+        this.cantidad = cantidad;
+
+    }
+    
+    // Representación del producto como texto
+    @Override
+    public String toString() {
+        return "🛒 " + nombre + "| Precio: $" + precio + " | Cantidad: " + cantidad;
     }
 }
