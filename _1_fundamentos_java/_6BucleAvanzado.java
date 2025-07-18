@@ -22,3 +22,5 @@ public class _6BucleAvanzado {
         }while (k <= 10);
     }
 }
+
+---
