@@ -19,7 +19,7 @@ This module includes the essential basics to get started with Java. Ideal for un
 - `_5BucleJava.java`  
 - `_6BucleAvanzado.java`  
 
-## 🛠️ Requisitos / Requirements
+## 🛠️ Requisitos / Requirements.
 - Java 17+  
 - Editor como VSCode, NetBeans o Eclipse  
 - Editor like VSCode, NetBeans or Eclipse
