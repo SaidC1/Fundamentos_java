@@ -11,7 +11,7 @@ This module includes the essential basics to get started with Java. Ideal for un
 4. **Estructura switch (menú de opciones) / Switch Structure (Options Menu)**  
 5. **Bucles (for, while, do-while) / Loops (for, while, do-while)**  
 
-## 📂 Archivos incluidos / Included Files
+## 📂 Archivos incluidos / Included Files.
 - `_1Variables.java`  
 - `_2Condicionales.java`  
 - `_3OperadoresRelacionales.java`  
