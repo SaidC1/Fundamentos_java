@@ -1,4 +1,4 @@
-# 🧠 Fundamentos de Java / Java Fundamentals
+# 🧠 Fundamentos de Java / Java Fundamentals.
 
 Este módulo incluye los conceptos básicos esenciales para comenzar con Java. Ideal para entender la sintaxis, los tipos de datos y las estructuras de control.  
 This module includes the essential basics to get started with Java. Ideal for understanding syntax, data types, and control structures.
