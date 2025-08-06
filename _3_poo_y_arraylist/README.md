@@ -1,4 +1,4 @@
-# 🛒 Inventario de Productos (CRUD en Java)
+# 🛒 Inventario de Productos (CRUD en Java).
 
 Este es un mini proyecto en Java que simula un sistema de inventario básico en consola, permitiendo agregar, mostrar, buscar, actualizar y eliminar productos.
 
