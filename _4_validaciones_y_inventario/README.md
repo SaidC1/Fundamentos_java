@@ -1,5 +1,5 @@
-# 🧾 Gestor de Inventario en Java  
-# 🧾 Inventory Manager in Java
+# 🧾 Gestor de Inventario en Java  .
+# 🧾 Inventory Manager in Java.
 
 Mini sistema funcional para gestionar productos en una tienda con nombre, precio y cantidad.  
 Mini functional system to manage products in a store with name, price, and quantity.
@@ -22,8 +22,8 @@ Mini functional system to manage products in a store with name, price, and quant
 
 ---
 
-## 📄 Archivos incluidos  
-## 📄 Included files
+## 📄 Archivos incluidos.
+## 📄 Included files.
 
 - `Producto.java`:  
   Clase base con atributos, constructores, getters/setters y métodos para mostrar información.  
@@ -35,8 +35,8 @@ Mini functional system to manage products in a store with name, price, and quant
 
 ---
 
-## ✅ Funcionalidades principales  
-## ✅ Main features
+## ✅ Funcionalidades principales.
+## ✅ Main features.
 
 - Agregar productos con validación (nombre único y valores válidos).  
   Add products with validation (unique name and valid values).  
@@ -51,8 +51,8 @@ Mini functional system to manage products in a store with name, price, and quant
 
 ---
 
-## 🧪 Requisitos  
-## 🧪 Requirements
+## 🧪 Requisitos.
+## 🧪 Requirements.
 
 - Java 17 o superior  
 - Java 17 or higher  
@@ -61,7 +61,7 @@ Mini functional system to manage products in a store with name, price, and quant
 
 ---
 
-## 🚀 Ejecución / Running
+## 🚀 Ejecución / Running.
 
 1. Compilar:  
    ```bash
