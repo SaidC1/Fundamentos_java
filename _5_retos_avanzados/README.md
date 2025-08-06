@@ -1,4 +1,4 @@
-# 📚 Sistema de Biblioteca / Library System
+# 📚 Sistema de Biblioteca / Library System.
 
 Este mini proyecto en Java simula un sistema básico para gestionar libros en una biblioteca.  
 Puedes registrar libros, ver la lista completa, buscar por título, prestar libros y devolverlos. 🚀
@@ -8,7 +8,7 @@ You can register books, view the complete list, search by title, lend books, and
 
 ---
 
-## 🧠 Qué aprendí / What I Learned
+## 🧠 Qué aprendí / What I Learned.
 
 - Uso de clases y objetos (`Libro` / `Book`)  
 - Manejo de listas dinámicas con `ArrayList` / Handling dynamic lists with `ArrayList`  
@@ -19,7 +19,7 @@ You can register books, view the complete list, search by title, lend books, and
 
 ---
 
-## 🛠️ Tecnologías usadas / Technologies Used
+## 🛠️ Tecnologías usadas / Technologies Used.
 
 - Java 17  
 - IDE (NetBeans, Eclipse, VSCode, IntelliJ, etc.)  
@@ -27,7 +27,7 @@ You can register books, view the complete list, search by title, lend books, and
 
 ---
 
-## 🗂️ Funcionalidades / Features
+## 🗂️ Funcionalidades / Features.
 
 ✅ Agregar libro con validaciones (título único y autor no vacío) / Add book with validations (unique title and non-empty author)  
 ✅ Mostrar lista completa de libros / Show complete list of books  
@@ -38,7 +38,7 @@ You can register books, view the complete list, search by title, lend books, and
 
 ---
 
-## 📷 Ejemplo en consola / Console Example
+## 📷 Ejemplo en consola / Console Example.
 
 ```text
 📚 MENÚ BIBLIOTECA / LIBRARY MENU:
